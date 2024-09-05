@@ -7,7 +7,7 @@ $ npm install
 ## Connect mongoDB
 
 ```bash
-paste your mongo database address into .env file determining - MONGODBURI
+paste your mongo database uri into .env file - MONGODBURI
 ```
 
 ## Running the app
@@ -28,5 +28,3 @@ $ npm run start:prod
 ```bash
 $ open the browser tab corresponding to your address of the running app(for example - localhost:5000/)
 ```
-
-
